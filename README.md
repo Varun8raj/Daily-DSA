@@ -2,11 +2,10 @@
 A structured repository dedicated to mastering Data Structures and Algorithms. This project tracks my progress through the comprehensive A2Z Sheet by Striver, featuring optimized solutions and deep dives into algorithmic patterns.
 
 ## 📊 Progress at a Glance
-| Section | Topic | Status | Solutions |
+| Section | Topic | Problems Solved | Solutions |
 | :- | :- | :- | :- |
-| **Step 1** | Learn the Basics | 15/15 | [View](./Step-01) |
-| **Step 2** | Sorting Techniques | 03/07 | [View](./Step-02) |
-| **Step 3** | Arrays (Easy to Hard) | 00/40 | [View](./Step-03) |
+| ** 1** | Learn the Basics | 0 | [View](./Basics) |
+| ** 2** | Learn the Advanced concepts | 0 | [View](./Advanced) |
 
 ## 🛠️ Key Technical Highlights
 - **Language:** Java
