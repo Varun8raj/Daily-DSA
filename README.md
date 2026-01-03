@@ -4,8 +4,8 @@ A structured repository dedicated to mastering Data Structures and Algorithms. T
 ## 📊 Progress at a Glance
 | Section | Topic | Problems Solved | Solutions |
 | :- | :- | :- | :- |
-| ** 1 ** | Learn the Basics | 0 | [View](./Basics) |
-| ** 2 ** | Learn the Advanced concepts | 0 | [View](./Advanced) |
+| **1** | Learn the Basics | 0 | [View](./Basics) |
+| **2** | Learn the Advanced concepts | 0 | [View](./Advanced) |
 
 ## 🛠️ Key Technical Highlights
 - **Language:** Java
