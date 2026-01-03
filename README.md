@@ -4,8 +4,8 @@ A structured repository dedicated to mastering Data Structures and Algorithms. T
 ## 📊 Progress at a Glance
 | Section | Topic | Problems Solved | Solutions |
 | :- | :- | :- | :- |
-| **1** | Learn the Basics | 0 | [View](./Basics) |
-| **2** | Learn the Advanced concepts | 0 | [View](./Advanced) |
+| **01** | Learn the Basics | 0 | [View](./Basics) |
+| **02** | Learn the Advanced concepts | 0 | [View](./Advanced) |
 
 ## 🛠️ Key Technical Highlights
 - **Language:** Java
@@ -14,7 +14,7 @@ A structured repository dedicated to mastering Data Structures and Algorithms. T
 
 ## 📂 Repository Organization
 The repository follows the TUF+ curriculum structure for easy navigation:
-- `Step-XX`: Main category folder.
+- `XX`: Main category folder (e.g., `01 Learn the Basics`).
 - Each file is named clearly (e.g., `TwoSumOptimal.java`) and contains comments on the logic used.
 
 ## 📈 Learning Goals
