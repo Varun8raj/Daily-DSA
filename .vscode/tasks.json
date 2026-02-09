@@ -1,0 +1,21 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run current Java file with input/output",
+      "type": "shell",
+      "command": "cmd",
+      "args": [
+        "/c",
+        "javac \"${file}\" && java \"${fileBasenameNoExtension}\" < input.txt > output.txt"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "presentation": {
+        "reveal": "always"
+      }
+    }
+  ]
+}
