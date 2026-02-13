@@ -4,7 +4,7 @@ A structured repository dedicated to mastering Data Structures and Algorithms. T
 ## 📊 Progress at a Glance
 | Section | Topic | Problems Solved | Solutions |
 | :- | :- | :- | :- |
-| **01** | Learn the Basics | 17 | [View](./Basics) |
+| **01** | Learn the Basics | 22 | [View](./Basics) |
 | **02** | Learn the Advanced concepts | 0 | [View](./Advanced) |
 
 ## 🛠️ Key Technical Highlights
