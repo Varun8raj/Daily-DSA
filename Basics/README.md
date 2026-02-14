@@ -5,4 +5,4 @@ This folder has all the basic problems solved.
 | Section | Topic | Problems Solved | Solutions |
 | :- | :- | :- | :- |
 | **01** | Logic Building | 22 | [View](./LogicBuilding) |
-| **02** | Basic Maths | 1 | [View](./BasicMaths) |
+| **02** | Basic Maths | 2 | [View](./BasicMaths) |
