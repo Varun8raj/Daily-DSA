@@ -8,4 +8,4 @@ This folder has all the basic problems solved.
 | **02** | Basic Maths | 13 | [View](./BasicMaths) |
 | **03** | Basic Arrays | 4 | [View](./BasicArrays) |
 | **04** | Basic Hashing | 3 | [View](./BasicHashing) |
-| **05** | Basic Strings | 3 | [View](./BasicStrings) |
+| **05** | Basic Strings | 5 | [View](./BasicStrings) |
