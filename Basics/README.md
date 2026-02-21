@@ -9,3 +9,4 @@ This folder has all the basic problems solved.
 | **03** | Basic Arrays | 4 | [View](./BasicArrays) |
 | **04** | Basic Hashing | 3 | [View](./BasicHashing) |
 | **05** | Basic Strings | 8 | [View](./BasicStrings) |
+| **06** | Basic Recursion | 9 | [View](./BasicRecursion) |
