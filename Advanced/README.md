@@ -5,4 +5,4 @@ This folder has all the Advanced problems solved.
 | Section | Topic | Problems Solved | Solutions |
 | :- | :- | :- | :- |
 | **01** | Sorting | 5 | [View](./Sorting) |
-| **02** | abc | 0 | [View](./abc) |
+| **02** | Arrays | 6 | [View](./Arrays) |
