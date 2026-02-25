@@ -10,3 +10,4 @@ This folder has all the basic problems solved.
 | **04** | Basic Hashing | 3 | [View](./BasicHashing) |
 | **05** | Basic Strings | 8 | [View](./BasicStrings) |
 | **06** | Basic Recursion | 10 | [View](./BasicRecursion) |
+| **Total Count**|         | 60 |
