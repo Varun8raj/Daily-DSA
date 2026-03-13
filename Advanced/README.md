@@ -6,3 +6,4 @@ This folder has all the Advanced problems solved.
 | :- | :- | :- | :- |
 | **01** | Sorting | 5 | [View](./Sorting) |
 | **02** | Arrays | 29 | [View](./Arrays) |
+| **03** | Hashing | 0 | [View](./Hashing) |
