@@ -1,5 +1,5 @@
 # Advanced problems
-This folder has all the Advanced problems solved.
+This folder has all the Advanced problems solved for each topic.
 
 ## Number of problems solved for each topic
 | Section | Topic | Problems Solved | Solutions |
